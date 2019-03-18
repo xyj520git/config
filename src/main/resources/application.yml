@@ -16,7 +16,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/xyj520git/springcloud.git
+          uri: https://github.com/xyj520git/config-properties.git
 
 eureka:
   client:
